@@ -1,4 +1,4 @@
-## 1. Semantic Search System
+## Semantic Search System
 
 This project implements a search system that finds results based on meaning instead of exact words.
 
